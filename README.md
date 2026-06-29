@@ -4,7 +4,7 @@
 
 This project is an undergraduate engineering elective proposal focused on reducing the percentage of campus waste sent to landfill through sustainable material substitution.
 
-The proposal responds to a University of Victoria Facilities Management request for ideas related to waste reduction and sustainability. It explores how replacing selected campus materials with biodegradable or recyclable alternatives could support landfill diversion, reduce environmental impact, and contribute to UVic’s broader sustainability goals.
+The report responds to a University of Victoria Facilities Management request for ideas related to waste reduction and sustainability. It explores how replacing selected campus materials with biodegradable or recyclable alternatives could support landfill diversion, reduce environmental impact, and contribute to UVic’s broader sustainability goals.
 
 The project combines environmental research, sustainability planning, material comparison, and proposal writing to present a practical campus-focused waste reduction strategy.
 
